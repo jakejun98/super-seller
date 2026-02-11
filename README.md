@@ -3,7 +3,7 @@
 > 실전형 커머스 백오피스 & AI 에이전트 자동화 프로젝트
 
 ## 🔗 배포 링크 (Live Demo)
-👉 **서비스 바로가기:** [https://super-seller.vercel.app](https://your-project-url.vercel.app)
+👉 **서비스 바로가기:** [Super Seller](https://super-seller.vercel.app)
 *(계정 없이도 대시보드 조회가 가능하도록 설정되어 있습니다.)*
 
 ---
